@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # docker-gs-ping-roach
  
 A slightly more advanced Go server/microservice example for [Docker's Go Language Guide](https://docs.docker.com/language/golang/). 
@@ -17,3 +18,6 @@ Thus, feedback is welcome, but please no nits or pedantry. Ain't nobody got time
 ## License
 
 [Apache-2.0 License](LICENSE)
+=======
+# github2docker
+>>>>>>> 2a3b7b605a66c17931fb8bce17c800b74d054bdc
